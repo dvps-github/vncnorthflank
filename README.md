@@ -1,1 +1,1 @@
-# okteto-debain-desktop
+# debain-desktop
